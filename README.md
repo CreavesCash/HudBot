@@ -1,4 +1,4 @@
 # HudBot
 HudBot is a chatbot for when you bored in quarantine
-![Hudbot](https://octodex.github.com/images/yaktocat.png)
+![Hudbot](https://github.com/supereo/HudBot/blob/master/bot.png)
 :)
